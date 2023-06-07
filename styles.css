@@ -1,0 +1,42 @@
+img {
+    height: auto;
+    width: 500px;
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.recipe {
+    padding: 25px;
+    font-size: 2rem;
+    background-color: darkcyan; 
+}
+
+a {
+    color: black;
+}
+
+
+.block {
+    width: 350px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+
+
+}
+#container {
+    height: 150px;
+    margin-top: 2rem;
+    border: 1px solid black;
+    text-align: left;
+    border-radius: 25px;
+    padding: 1em; 
+}
+
