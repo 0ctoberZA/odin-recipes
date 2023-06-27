@@ -1,0 +1,23 @@
+.Chakalaka {
+    height: auto;
+    width: 400px;
+    margin-left: auto;
+}
+
+.Oxtail {
+    height: auto;
+    width: 450px;
+    margin-left: auto;
+}
+
+.Peppermint {
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+
+}
+
+* {
+    background-color: #fadbad;
+    line-height: 1.5rem;
+ }
